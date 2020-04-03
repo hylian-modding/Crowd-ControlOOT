@@ -1,0 +1,22 @@
+{
+  "name": "Crowd-ControlOOT",
+  "version": "1.0.0",
+  "description": "Powered by Twitch Message Interface.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hylian-modding/Crowd-ControlOOT.git"
+  },
+  "keywords": [],
+  "author": "Drahsid",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/hylian-modding/Crowd-ControlOOT/issues"
+  },
+  "homepage": "https://github.com/hylian-modding/Crowd-ControlOOT#readme"
+}

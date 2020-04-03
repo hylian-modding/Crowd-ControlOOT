@@ -1,0 +1,10 @@
+{
+  "name": "Crowd-ControlOOT",
+  "version": "1.0.0",
+  "description": "Uses the Twitch Message Interface to communicate twitch commands interacting with the game.",
+  "main": "Main.js",
+  "author": "Drahsid",
+  "credits": "denoflions, SpiceyWolf",
+  "license": "GPL3",
+  "core": "OcarinaofTime"
+}
